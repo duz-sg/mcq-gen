@@ -1,5 +1,10 @@
 openai
 langchain
+langchain-openai
 streamlit
 python-dotenv
 PyPDF2
+
+
+# install packages into env
+-e .
